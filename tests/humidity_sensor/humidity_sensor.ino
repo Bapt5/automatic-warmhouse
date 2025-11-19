@@ -1,37 +1,46 @@
-#include <DHT.h>
+/*
+ * Created by ArduinoGetStarted.com
+ *
+ * This example code is in the public domain
+ *
+ * Tutorial page: https://arduinogetstarted.com/tutorials/arduino-dht11
+ */
 
-// Define the pin connected to the DATA pin of DHT22
-#define DHTPIN 2
-#define DHTTYPE DHT22
+#include "DHT.h"
+#define DHT11_PIN 3
 
-// Initialize the DHT sensor
-DHT dht(DHTPIN, DHTTYPE);
+DHT dht11(DHT11_PIN, DHT11);
 
 void setup() {
-Serial.begin(9600);
-dht.begin();
+  Serial.begin(9600);
+  dht11.begin(); // initialize the sensor
 }
 
 void loop() {
-delay(2000); // Wait 2 seconds between readings
+  // wait a few seconds between measurements.
+  delay(2000);
 
-// Read humidity and temperature
-float humidity = dht.readHumidity();
-float tempC = dht.readTemperature(); // Celsius
-float tempF = dht.readTemperature(true); // Fahrenheit
+  // read humidity
+  float humi  = dht11.readHumidity();
+  // read temperature as Celsius
+  float tempC = dht11.readTemperature();
+  // read temperature as Fahrenheit
+  float tempF = dht11.readTemperature(true);
 
-// Check if readings failed
-if (isnan(humidity) || isnan(tempC) || isnan(tempF)) {
-Serial.println("Failed to read from DHT22 sensor!");
-return;
-}
+  // check if any reads failed
+  if (isnan(humi) || isnan(tempC) || isnan(tempF)) {
+    Serial.println("Failed to read from DHT11 sensor!");
+  } else {
+    Serial.print("DHT11# Humidity: ");
+    Serial.print(humi);
+    Serial.print("%");
 
-// Print results
-Serial.print("Humidity: ");
-Serial.print(humidity);
-Serial.print("% | Temperature: ");
-Serial.print(tempC);
-Serial.print("°C ~ ");
-Serial.print(tempF);
-Serial.println("°F");
+    Serial.print("  |  "); 
+
+    Serial.print("Temperature: ");
+    Serial.print(tempC);
+    Serial.print("°C ~ ");
+    Serial.print(tempF);
+    Serial.println("°F");
+  }
 }

@@ -31,16 +31,19 @@ void loop() {
   if (isnan(humi) || isnan(tempC) || isnan(tempF)) {
     Serial.println("Failed to read from DHT11 sensor!");
   } else {
-    Serial.print("DHT11# Humidity: ");
-    Serial.print(humi);
-    Serial.print("%");
+    Serial.print(humi); // e.g., 15.00
+    Serial.print(",");
+    Serial.println(tempC); // e.g., 21.00 (println adds a newline character)
+    // Serial.print("DHT11# Humidity: ");
+    // Serial.print(humi);
+    // Serial.print("%");
 
-    Serial.print("  |  "); 
+    // Serial.print("  |  "); 
 
-    Serial.print("Temperature: ");
-    Serial.print(tempC);
-    Serial.print("°C ~ ");
-    Serial.print(tempF);
-    Serial.println("°F");
+    // Serial.print("Temperature: ");
+    // Serial.print(tempC);
+    // Serial.print("°C ~ ");
+    // Serial.print(tempF);
+    // Serial.println("°F");
   }
 }

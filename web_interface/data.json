@@ -1,0 +1,1858 @@
+[
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:30.495929"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:30.944396"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:31.442549"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:31.941526"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 220,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:32.529616"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:33.181140"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:33.447511"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 218,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:33.937861"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:34.466462"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 289,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:34.967954"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:35.439091"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 197,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:35.952273"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 244,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:36.464163"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:36.969324"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 218,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:37.437708"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:37.933478"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 241,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:38.459728"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:38.971074"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 188,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:39.433132"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:39.934940"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 213,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:40.471731"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 236,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:40.964674"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 215,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:41.438086"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:27:41.938044"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 203,
+        "water_level": 13.100000381469727,
+        "timestamp": "2025-11-20T14:27:42.451191"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 236,
+        "water_level": 15.300000190734863,
+        "timestamp": "2025-11-20T14:27:42.951699"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:43.465688"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:44.005650"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:44.445988"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 188,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:44.953641"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:45.434477"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:45.961851"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 14.899999618530273,
+        "timestamp": "2025-11-20T14:27:46.452802"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 15.300000190734863,
+        "timestamp": "2025-11-20T14:27:46.989731"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 15.300000190734863,
+        "timestamp": "2025-11-20T14:27:47.423958"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 15.399999618530273,
+        "timestamp": "2025-11-20T14:27:47.950132"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 15.100000381469727,
+        "timestamp": "2025-11-20T14:27:48.451849"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 13.5,
+        "timestamp": "2025-11-20T14:27:48.950052"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 13.800000190734863,
+        "timestamp": "2025-11-20T14:27:49.433411"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 13.199999809265137,
+        "timestamp": "2025-11-20T14:27:49.933189"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 302,
+        "water_level": 13.399999618530273,
+        "timestamp": "2025-11-20T14:27:50.451506"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 295,
+        "water_level": 13.300000190734863,
+        "timestamp": "2025-11-20T14:27:50.995949"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 12.800000190734863,
+        "timestamp": "2025-11-20T14:27:51.423375"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 215,
+        "water_level": 13,
+        "timestamp": "2025-11-20T14:27:51.929445"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 12.399999618530273,
+        "timestamp": "2025-11-20T14:27:52.450078"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 12.199999809265137,
+        "timestamp": "2025-11-20T14:27:53.004729"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 12.5,
+        "timestamp": "2025-11-20T14:27:53.422553"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 215,
+        "water_level": 12,
+        "timestamp": "2025-11-20T14:27:53.921264"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 11.5,
+        "timestamp": "2025-11-20T14:27:54.504912"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 11.699999809265137,
+        "timestamp": "2025-11-20T14:27:54.955371"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 228,
+        "water_level": 11.100000381469727,
+        "timestamp": "2025-11-20T14:27:55.422506"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 199,
+        "water_level": 10.899999618530273,
+        "timestamp": "2025-11-20T14:27:55.939044"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 10.399999618530273,
+        "timestamp": "2025-11-20T14:27:56.451722"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 10.5,
+        "timestamp": "2025-11-20T14:27:56.953530"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 192,
+        "water_level": 10,
+        "timestamp": "2025-11-20T14:27:57.420986"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 252,
+        "water_level": 8.899999618530273,
+        "timestamp": "2025-11-20T14:27:57.941919"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 9.300000190734863,
+        "timestamp": "2025-11-20T14:27:58.450885"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 7.800000190734863,
+        "timestamp": "2025-11-20T14:27:59.101747"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 213,
+        "water_level": 7.900000095367432,
+        "timestamp": "2025-11-20T14:27:59.421955"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 6.900000095367432,
+        "timestamp": "2025-11-20T14:27:59.929925"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 228,
+        "water_level": 7.300000190734863,
+        "timestamp": "2025-11-20T14:28:00.449757"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 236,
+        "water_level": 6.300000190734863,
+        "timestamp": "2025-11-20T14:28:00.950444"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:01.433238"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 295,
+        "water_level": 5,
+        "timestamp": "2025-11-20T14:28:02.002556"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 203,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:02.538816"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 220,
+        "water_level": 6.900000095367432,
+        "timestamp": "2025-11-20T14:28:02.970166"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 6.599999904632568,
+        "timestamp": "2025-11-20T14:28:03.419653"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 6.400000095367432,
+        "timestamp": "2025-11-20T14:28:03.936693"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 236,
+        "water_level": 5.800000190734863,
+        "timestamp": "2025-11-20T14:28:04.449241"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 199,
+        "water_level": 6.400000095367432,
+        "timestamp": "2025-11-20T14:28:04.964758"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 289,
+        "water_level": 6.099999904632568,
+        "timestamp": "2025-11-20T14:28:05.420199"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 6.099999904632568,
+        "timestamp": "2025-11-20T14:28:05.919014"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 5.699999809265137,
+        "timestamp": "2025-11-20T14:28:06.444808"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 5.5,
+        "timestamp": "2025-11-20T14:28:06.935412"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 292,
+        "water_level": 5.400000095367432,
+        "timestamp": "2025-11-20T14:28:07.417339"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 4.599999904632568,
+        "timestamp": "2025-11-20T14:28:07.922068"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 4.800000190734863,
+        "timestamp": "2025-11-20T14:28:08.445871"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 4.400000095367432,
+        "timestamp": "2025-11-20T14:28:08.956408"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 3.4000000953674316,
+        "timestamp": "2025-11-20T14:28:09.415826"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 3.4000000953674316,
+        "timestamp": "2025-11-20T14:28:09.911026"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 292,
+        "water_level": 2.799999952316284,
+        "timestamp": "2025-11-20T14:28:10.437184"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 2.299999952316284,
+        "timestamp": "2025-11-20T14:28:10.956196"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 2.0999999046325684,
+        "timestamp": "2025-11-20T14:28:11.431575"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 1,
+        "timestamp": "2025-11-20T14:28:11.930175"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:12.448722"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:12.950217"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:13.422846"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 228,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:13.934949"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:14.432412"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:14.949870"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:15.434534"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 201,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:15.940054"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:16.563697"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:17.107033"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 206,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:17.428013"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:17.922968"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 244,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:18.449794"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:18.946765"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 197,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:19.421388"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:19.923230"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:20.455071"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:20.948608"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:21.418251"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:21.921002"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 195,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:22.448239"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 215,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:22.946927"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:23.422796"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:23.923050"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 203,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:24.450413"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:24.953730"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:25.429689"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 289,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:26.030244"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 186,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:26.447014"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:26.944566"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:27.418908"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:27.937562"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 197,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:28.449332"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:28.949524"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:29.446933"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:29.923523"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 192,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:30.466176"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:30.949391"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:31.451355"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:31.968454"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 195,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:32.485103"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 210,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:32.986345"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:33.584288"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:33.947783"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:34.480738"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 192,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:34.946732"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:35.417881"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:35.910851"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 246,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:36.484539"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 190,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:36.949541"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:37.438798"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:37.987649"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:38.482969"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:38.973269"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:39.424758"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:39.923088"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:40.444673"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 223,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:40.942731"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:41.432971"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:41.935019"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:42.462073"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 208,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:42.946327"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:43.414553"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:43.935345"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 292,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:44.435859"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 241,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:45.106030"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:45.536135"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:45.916704"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:46.435423"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 252,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:46.938765"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:47.415063"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:47.912850"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:48.460530"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:48.944675"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:49.420520"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 241,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:50.115114"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:50.470055"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:50.968888"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:51.423420"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 241,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:51.950591"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:52.440944"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:52.980416"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:53.415381"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:54.006283"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:54.472788"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:55.050302"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:55.417636"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 236,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:55.932435"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 292,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:56.436365"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:56.971772"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:57.416183"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:57.912508"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:58.434333"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:58.950537"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:59.416453"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:28:59.961054"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:00.449085"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:00.965852"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:01.419732"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 210,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:01.991188"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 273,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:02.437334"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:02.943973"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:03.411459"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 195,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:03.914176"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 258,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:04.448481"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:04.944467"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 203,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:05.413256"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 228,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:05.928232"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:06.447514"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:06.946345"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 180,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:07.413996"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 228,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:07.919018"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:08.438525"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 230,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:08.944181"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:09.408572"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:09.920789"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 206,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:10.441882"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 218,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:10.942726"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 261,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:11.421166"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 285,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:11.917093"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 249,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:12.442178"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 210,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:12.981626"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:13.515032"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 252,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:13.917421"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:14.437993"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 225,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:14.945508"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:15.420719"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:15.922102"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 289,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:16.422887"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:16.939062"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:17.409365"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 213,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:17.911737"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 270,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:18.425919"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 282,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:18.942644"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:19.411991"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 201,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:19.911517"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 238,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:20.429514"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 264,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:20.933663"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 190,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:21.414723"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 255,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:21.912960"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 220,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:22.426386"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 233,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:22.925117"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 241,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:23.445765"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 276,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:23.911678"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 195,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:24.437990"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 201,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:24.936353"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 267,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:25.416802"
+    },
+    {
+        "air_temperature": 21,
+        "air_humidity": 15,
+        "soil_humidity": 16,
+        "light_intensity": 279,
+        "water_level": 0,
+        "timestamp": "2025-11-20T14:29:25.914959"
+    }
+]

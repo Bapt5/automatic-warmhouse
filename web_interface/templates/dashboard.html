@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automatic Greenhouse Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@3.7.1/dist/chart.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/moment@2.29.1/moment.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-moment@1.0.0/dist/chartjs-adapter-moment.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1>Automatic Greenhouse Dashboard</h1>
+    </header>
+
+    <div id="status-board">
+        <div class="card status-temp">
+            <h2>Air Temperature</h2>
+            <p id="temp-value">-- °C</p>
+        </div>
+        <div class="card status-hum">
+            <h2>Air Humidity</h2>
+            <p id="hum-air-value">-- %</p>
+        </div>
+        <div class="card status-soil">
+            <h2>Soil Humidity (Simu)</h2>
+            <p id="hum-soil-value">-- %</p>
+        </div>
+        <div class="card status-water">
+            <h2>Water Level</h2>
+            <p id="water-level-value">-- cm</p>
+        </div>
+        <div class="card status-light">
+            <h2>Light Intensity</h2>
+            <p id="light-value">-- Lux</p>
+        </div>
+    </div>
+
+    <div id="charts-container">
+        <div class="chart-box">
+            <h3>Air Temperature (°C)</h3>
+            <canvas id="airTempChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>Air Humidity (%)</h3>
+            <canvas id="airHumChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>Simulated Soil Humidity (%)</h3>
+            <canvas id="soilHumChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>Water Level (cm)</h3>
+            <canvas id="waterLevelChart"></canvas>
+        </div>
+        <div class="chart-box">
+            <h3>Light Intensity</h3>
+            <canvas id="lightChart"></canvas>
+        </div>
+    </div>
+    
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

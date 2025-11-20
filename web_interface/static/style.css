@@ -1,0 +1,84 @@
+/* Basic Reset and Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50; /* Green theme */
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+/* Status Board (Key Metrics) */
+#status-board {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.card {
+    text-align: center;
+    padding: 15px;
+    border-radius: 6px;
+    min-width: 150px;
+}
+
+.card h2 {
+    font-size: 1em;
+    color: #666;
+    margin-top: 0;
+}
+
+.card p {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin: 5px 0 0;
+}
+
+/* Chart Container Styles */
+#charts-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 0 10px 20px;
+}
+
+.chart-box {
+    background-color: #fff;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: calc(33% - 40px); /* Three charts per row */
+    min-width: 300px;
+    height: 350px; /* Fixed height for charts */
+    box-sizing: border-box;
+}
+
+.chart-box h3 {
+    margin-top: 0;
+    color: #4CAF50;
+    text-align: center;
+}
+
+/* Specific Color Theming for Status Cards (Optional) */
+.status-temp { border-left: 5px solid #ff9800; } /* Orange */
+.status-hum { border-left: 5px solid #2196F3; } /* Blue */
+.status-soil { border-left: 5px solid #795548; } /* Brown */
+.status-water { border-left: 5px solid #00BCD4; } /* Cyan */
+.status-light { border-left: 5px solid #FFEB3B; } /* Yellow */

@@ -10,7 +10,7 @@
 #define WATERRING_LED_PIN 5
 const int SERVO_PIN = 6;
 
-Servo myservo;
+Servo wateringServo;
 
 const int LIGHT_SENSOR_PIN = A1;
 
@@ -28,17 +28,15 @@ const long readingInterval = 500;
 
 long endOfWatering = 0;
 
-const int SOIL_LOW_THRESHOLD_SIMU = 65; 
+const int SOIL_LOW_THRESHOLD_SIMU = 16; 
 const int LIGHT_LOW_THRESHOLD = 150; 
 const int WATER_MIN_CM = 3;
 const int WATERING_DURATION = 5000;
-const int BOTTLE_HEIGHT_CM = 11;
+const int BOTTLE_HEIGHT_CM = 11x;
 
 // variable for watering control
 const int WATERING_ANGLE = 66; // Angle for watering (open/start flow)
-const int STOP_ANGLE = 88;     // Angle for stopping water (closed/stop flow)
-const int MOVE_DELAY = 150;
-int currentAngle = STOP_ANGLE;
+const int STOP_ANGLE = 111;     // Angle for stopping water (closed/stop flow)
 
 void setup() {
   Serial.begin(115200); 
@@ -54,8 +52,8 @@ void setup() {
   digitalWrite(LIGHT_PIN, LOW);
   digitalWrite(WATERRING_LED_PIN, LOW);
 
-  myservo.attach(SERVO_PIN);
-  myservo.write(currentAngle);
+  wateringServo.attach(SERVO_PIN);
+  wateringServo.write(STOP_ANGLE);
 }
 
 
@@ -110,7 +108,7 @@ void controlLogic() {
     digitalWrite(LIGHT_PIN, LOW);
   }
 
-  if (soilSimuHum < SOIL_LOW_THRESHOLD_SIMU && waterLevelCm > WATER_MIN_CM) {
+  if (soilSimuHum < SOIL_LOW_THRESHOLD_SIMU && waterLevelCm > WATER_MIN_CM && millis() > endOfWatering) {
     watering();
   }
 }
@@ -124,34 +122,12 @@ void watering() {
 
 void wateringOn() {
   digitalWrite(WATERRING_LED_PIN, HIGH);
-
-  if (currentAngle > WATERING_ANGLE) {
-    // Serial.println("Starting water flow (Moving to 66 degrees)...");
-    
-    // Loop decrements the angle slowly
-    for (int pos = currentAngle; pos >= WATERING_ANGLE; pos--) { 
-      myservo.write(pos);             // tell servo to go to position in variable 'pos'
-      delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
-    }
-    currentAngle = WATERING_ANGLE;
-    // Serial.println("Watering started (Angle: 66).");
-  }
+  wateringServo.write(WATERING_ANGLE);
 }
 
 void wateringOff() {
   digitalWrite(WATERRING_LED_PIN, LOW);
-
-  if (currentAngle < STOP_ANGLE) {
-    // Serial.println("Stopping water flow (Moving to 88 degrees)...");
-    
-    // Loop increments the angle slowly
-    for (int pos = currentAngle; pos <= STOP_ANGLE; pos++) { 
-      myservo.write(pos);             // tell servo to go to position in variable 'pos'
-      delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
-    }
-    currentAngle = STOP_ANGLE;
-    // Serial.println("Watering stopped (Angle: 88).");
-  }
+  wateringServo.write(STOP_ANGLE);
 }
 
 void sendSerialData() {

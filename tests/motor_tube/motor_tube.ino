@@ -4,9 +4,9 @@ Servo myservo;         // create servo object to control a servo
 int pos = 0;           // variable to store the servo position
 int receivedNumber = 0; // Variable to store the converted integer
 
-int currentAngle = 90;
+int currentAngle = 180;
 const int WATERING_ANGLE = 66; // Angle for watering (open/start flow)
-const int STOP_ANGLE = 88;     // Angle for stopping water (closed/stop flow)
+const int STOP_ANGLE = 180;     // Angle for stopping water (closed/stop flow)
 const int MOVE_DELAY = 150;
 
 void setup() {
@@ -43,40 +43,43 @@ void loop() {
 }
 
 void startWatering() {
-  if (currentAngle > WATERING_ANGLE) {
-    Serial.println("Starting water flow (Moving to 66 degrees)...");
+  myservo.write(WATERING_ANGLE);
+  // if (currentAngle > WATERING_ANGLE) {
+  //   Serial.println("Starting water flow (Moving to 66 degrees)...");    
     
-    // Loop decrements the angle slowly
-    for (int pos = currentAngle; pos >= WATERING_ANGLE; pos--) { 
-      myservo.write(pos);             // tell servo to go to position in variable 'pos'
-      delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
-    }
-    currentAngle = WATERING_ANGLE;
-    Serial.println("Watering started (Angle: 66).");
-  } else if (currentAngle == WATERING_ANGLE) {
-    Serial.println("Already watering.");
-  } else {
-    Serial.println("Servo is already below 66, check current angle.");
-  }
+  //   // Loop decrements the angle slowly
+  //   for (int pos = currentAngle; pos >= WATERING_ANGLE; pos--) { 
+  //     myservo.write(pos);             // tell servo to go to position in variable 'pos'
+  //     delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
+  //   }
+  //   currentAngle = WATERING_ANGLE;
+  //   Serial.println("Watering started (Angle: 66).");
+  // } else if (currentAngle == WATERING_ANGLE) {
+  //   Serial.println("Already watering.");
+  // } else {
+  //   Serial.println("Servo is already below 66, check current angle.");
+  // }
 }
 
 /**
  * Moves the servo slowly from its current angle to the stopped angle (88 degrees).
  */
 void stopWatering() {
-  if (currentAngle < STOP_ANGLE) {
-    Serial.println("Stopping water flow (Moving to 88 degrees)...");
+  myservo.write(STOP_ANGLE);
+  // if (currentAngle < STOP_ANGLE) {
+  //   Serial.println("Stopping water flow (Moving to 88 degrees)...");
     
-    // Loop increments the angle slowly
-    for (int pos = currentAngle; pos <= STOP_ANGLE; pos++) { 
-      myservo.write(pos);             // tell servo to go to position in variable 'pos'
-      delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
-    }
-    currentAngle = STOP_ANGLE;
-    Serial.println("Watering stopped (Angle: 88).");
-  } else if (currentAngle == STOP_ANGLE) {
-    Serial.println("Already stopped.");
-  } else {
-    Serial.println("Servo is already above 88, check current angle.");
-  }
+    
+  //   // Loop increments the angle slowly
+  //   for (int pos = currentAngle; pos <= STOP_ANGLE; pos++) { 
+  //     myservo.write(pos);             // tell servo to go to position in variable 'pos'
+  //     delay(MOVE_DELAY);              // waits for MOVE_DELAY milliseconds for the servo to reach position
+  //   }
+  //   currentAngle = STOP_ANGLE;
+  //   Serial.println("Watering stopped (Angle: 88).");
+  // } else if (currentAngle == STOP_ANGLE) {
+  //   Serial.println("Already stopped.");
+  // } else {
+  //   Serial.println("Servo is already above 88, check current angle.");
+  // }
 }

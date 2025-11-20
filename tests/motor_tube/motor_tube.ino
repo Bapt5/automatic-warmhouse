@@ -10,7 +10,7 @@ const int STOP_ANGLE = 88;     // Angle for stopping water (closed/stop flow)
 const int MOVE_DELAY = 150;
 
 void setup() {
-  myservo.attach(5);   // attaches the servo on pin 5 to the servo object (Note: Changed from 3 to 5 based on your original code)
+  myservo.attach(6);   // attaches the servo on pin 5 to the servo object (Note: Changed from 3 to 5 based on your original code)
   Serial.begin(9600);  // Start serial communication at 9600 baud rate
   Serial.println("Servo Control Ready. Enter '1' for 0 degrees, or '0' for 90 degrees.");
   myservo.write(currentAngle);  //init

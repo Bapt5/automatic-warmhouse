@@ -12,11 +12,7 @@ void setup() {
 
   // 1. Check for available serial ports
   println(Serial.list());
-
-  // !!! IMPORTANT: Replace "COM3" (or /dev/ttyACM0, etc.) with the
-  // port your Arduino is actually connected to. Use the list above.
   String portName = Serial.list()[2]; // Tries to use the first port in the list
-  // String portName = "COM3"; // Uncomment and change if the list approach fails
 
   // 2. Initialize the serial port (must match the baud rate in Arduino)
   myPort = new Serial(this, portName, 9600);
@@ -26,10 +22,10 @@ void setup() {
 }
 
 void draw() {
-  background(20); // Dark background
+  background(255); // Dark background
 
   // Display the data
-  fill(255); // White text
+  fill(0); // White text
   textSize(32);
 
   // Humidity

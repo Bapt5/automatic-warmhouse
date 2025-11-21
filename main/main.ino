@@ -32,10 +32,10 @@ const int SOIL_LOW_THRESHOLD_SIMU = 16;
 const int LIGHT_LOW_THRESHOLD = 150; 
 const int WATER_MIN_CM = 3;
 const int WATERING_DURATION = 5000;
-const int BOTTLE_HEIGHT_CM = 11x;
+const int BOTTLE_HEIGHT_CM = 8;
 
 // variable for watering control
-const int WATERING_ANGLE = 66; // Angle for watering (open/start flow)
+const int WATERING_ANGLE = 88; // Angle for watering (open/start flow)
 const int STOP_ANGLE = 111;     // Angle for stopping water (closed/stop flow)
 
 void setup() {
@@ -72,8 +72,10 @@ void loop() {
 
 
 void readSensors() {
-  airHum = dhtAir.readHumidity();
-  airTemp = dhtAir.readTemperature();
+  // airHum = dhtAir.readHumidity();
+  // airTemp = dhtAir.readTemperature();
+  airHum = 16;
+  airTemp = 19;
 
   soilSimuHum = dhtSoil.readHumidity();
 
@@ -145,7 +147,7 @@ void sendSerialData() {
   Serial.print("HS");
   Serial.print(humSolStr);
   Serial.print("N");
-  Serial.print(waterLevelStr);
+  Serial.print(waterLevelCm);
   Serial.print("L");
   Serial.print(lightStr);
   Serial.println();

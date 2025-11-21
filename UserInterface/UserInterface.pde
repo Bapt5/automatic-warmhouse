@@ -82,23 +82,43 @@ void serialEvent(Serial p) {
           
           // "TA" is 2 chars long, so start at iTA + 2
           String sTA = receivedData.substring(iTA + 2, iHA).trim();
-          airTemp = Float.parseFloat(sTA);
+          if (sTA.length() == 0) {
+             airTemp = 0;
+          } else {
+            airTemp = Float.parseFloat(sTA);
+          }
 
           // "HA" is 2 chars long -> +2
           String sHA = receivedData.substring(iHA + 2, iHS).trim();
-          airHum = Float.parseFloat(sHA);
+          if (sHA.length() == 0) {
+             airHum = 0;
+          } else {
+            airHum = Float.parseFloat(sHA);
+          }
 
           // "HS" is 2 chars long -> +2
           String sHS = receivedData.substring(iHS + 2, iN).trim();
-          soilSimuHum = Float.parseFloat(sHS);
+          if (sHS.length() == 0) {
+             soilSimuHum = 0;
+          } else {
+            soilSimuHum = Float.parseFloat(sHS);
+          }
 
           // "N" is ONLY 1 char long -> start at iN + 1
           String sN = receivedData.substring(iN + 1, iL).trim();
-          waterLevelCm = Float.parseFloat(sN);
+          if (sN.length() == 0) {
+             waterLevelCm = 0;
+          } else {
+            waterLevelCm = Float.parseFloat(sN);
+          }
 
           // "L" is ONLY 1 char long -> start at iL + 1
           String sL = receivedData.substring(iL + 1).trim();
-          lightIntensity = Float.parseFloat(sL);
+          if (sL.length() == 0) {
+             lightIntensity = 0;
+          } else {
+            lightIntensity = Float.parseFloat(sL);
+          }
           
           // Use thread() to run the network request asynchronously
           thread("postDataThread");
